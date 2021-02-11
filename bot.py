@@ -15,7 +15,7 @@ async def on_ready():
   #await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="노래 듣는중"))
   #await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="영상 시청중"))
   
-  print("킬로가이드:",client.user.name,"799499903751553044:",client.user.id,"봇 버전:",discord.__version__)
+  print("킬로가이드:",client.user.name,"809343620796121099:",client.user.id,"1.0.0:",discord.__version__)
 
 
 client.run(os.environ['Nzk5NDk5OTAzNzUxNTUzMDQ0.YAEeTw.2a1qKgHLqjzrlc64KhEMUBQnorE'])
