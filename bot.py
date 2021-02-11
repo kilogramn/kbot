@@ -18,4 +18,4 @@ async def on_ready():
   print("킬로가이드:",client.user.name,"809343620796121099:",client.user.id,"1.0.0:",discord.__version__)
 
 
-client.run(os.environ['Nzk5NDk5OTAzNzUxNTUzMDQ0.YAEeTw.2a1qKgHLqjzrlc64KhEMUBQnorE'])
+client.run(os.environ['ODA5MzQzNjIwNzk2MTIxMDk5.YCTt_A.ZNqgtiOqAYfDI4JGIwQdmc_f-M8'])
